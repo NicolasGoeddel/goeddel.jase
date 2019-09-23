@@ -1,0 +1,4 @@
+graft src/goeddel
+graft docs
+include *.rst
+global-exclude *.pyc

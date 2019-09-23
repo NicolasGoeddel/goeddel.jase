@@ -1,0 +1,6 @@
+[report]
+include =
+    src/goeddel/*
+omit =
+    */test*
+    */upgrades/*
